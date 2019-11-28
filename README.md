@@ -1,4 +1,4 @@
-# Investment-Support-System
+# Investment Decision Support System
 Decision support system to aid e-commerce investors
 
 1. This project is a stock DSS which aims to combine clarity of presentation and fluidity of navigation, with comprehensiveness of analyses and efficiency of provision of vital information to a potential investor, whilst particularly aiming to maintain ease of use and understandability.
