@@ -12,6 +12,6 @@ Actions performed by all recorded macros in the system are highly fluid and seam
 
 What’s very important to mention are the workings of the macros which generate the charts and tables throughout the workbook. The datasheets used to generate these are hidden by default. When the user selects a button to generate a chart or table, the macro assigned to it unhides the relevant datasheet(s), extracts the data, and generates the chart/table. The macro thereafter hides the datasheet(s) before navigating back to the original page and displaying the desired chart/table. 
 
-# Systematic IDSS Framework (Wanli Chen, ICEB 2004)
+# Decision Support System Framework (Wanli Chen, ICEB 2004)
 
 ![Image of framework](https://github.com/jackapbutler/Investment-Decision-Support-System/blob/master/IDSS_framework.png)
